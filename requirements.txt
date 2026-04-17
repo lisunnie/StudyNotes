@@ -1,4 +1,3 @@
 streamlit
-crawl4ai
 requests
 beautifulsoup4
